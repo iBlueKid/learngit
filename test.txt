@@ -3,3 +3,4 @@ so i must study hard...
 now i know what is git,so i want to control it!!!
 now i create a remote github repository!!!
 now i create a branch dev for the test!!!!
+now i create a branch conflict at master branch!!!
